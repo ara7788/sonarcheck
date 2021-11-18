@@ -51,5 +51,6 @@ class MaliciousCode
         // Resultant query (notice the additional single quote character):
         // SELECT AccountNumber FROM Users WHERE Username=''' OR 1=1 --'
         //                                   AND Password='[PLACEHOLDER]'
+        // New comment
     }
 }
